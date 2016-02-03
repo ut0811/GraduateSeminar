@@ -1,0 +1,54 @@
+tp0
+SF1 c
+SF0 g
+SF0 k
+
+tp1
+
+tp2
+SF1 i
+SF1 k
+
+tp3
+SF0 c
+SF1 f
+SF1 b
+SF1 i
+SF1 k
+
+tp4
+SF0 d
+SF0 h
+SF0 j
+SF0 l
+
+tp5
+SF1 c
+SF1 h
+SF1 i
+SF1 l
+SF1 h_i_B
+SF1 h_j_B
+
+tp6
+SF1 b
+SF1 i
+SF1 e
+SF1 l
+
+tp7
+SF0 c
+SF0 h
+SF0 i
+SF0 k
+SF0 l
+SF0 c_h_A
+SF0 i_k_B
+SF0 i_l_A
+
+tp8
+SF1 a
+SF1 i
+SF1 k
+SF1 l
+
